@@ -1,0 +1,17 @@
+{
+  "last_updated": 1792299599448,
+  "version": "0.82",
+  "ttl": 604800,
+  "data": {
+    "feeds": [
+      {
+        "name": "agency",
+        "url": "https://raw.githubusercontent.com/mgetty3/gcfs-test-feeds/refs/heads/main/agency.json"
+      },
+      {
+        "name": "carpool_routes",
+        "url": "https://raw.githubusercontent.com/mgetty3/gcfs-test-feeds/refs/heads/main/carpool_routes.json"
+      }
+    ]
+  }
+}
