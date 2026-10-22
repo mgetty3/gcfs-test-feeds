@@ -1,0 +1,274 @@
+{
+  "last_updated": 1792299599549,
+  "version": "0.82",
+  "ttl": 604800,
+  "data": {
+    "carpool_routes": [
+      {
+        "carpool_route_id": "16433_82338_82337",
+        "orig": {
+          "sw": {
+            "lat": 36.74,
+            "lng": -76.22
+          },
+          "ne": {
+            "lat": 36.76,
+            "lng": -76.2
+          }
+        },
+        "dest": {
+          "sw": {
+            "lat": 36.94,
+            "lng": -76.28
+          },
+          "ne": {
+            "lat": 36.96,
+            "lng": -76.26
+          }
+        },
+        "gender_type": 1,
+        "smoker_type": 2,
+        "role_type": 1,
+        "lang": "en",
+        "days": [
+          {
+            "day": "mon",
+            "time_flex": -1
+          },
+          {
+            "day": "tue",
+            "time_flex": -1
+          },
+          {
+            "day": "wed",
+            "time_flex": -1
+          },
+          {
+            "day": "thu",
+            "time_flex": -1
+          },
+          {
+            "day": "fri",
+            "time_flex": -1
+          }
+        ]
+      },
+      {
+        "carpool_route_id": "34579_85799_85800",
+        "orig": {
+          "sw": {
+            "lat": 36.82,
+            "lng": -76.16
+          },
+          "ne": {
+            "lat": 36.84,
+            "lng": -76.14
+          }
+        },
+        "dest": {
+          "sw": {
+            "lat": 36.76,
+            "lng": -76.24
+          },
+          "ne": {
+            "lat": 36.78,
+            "lng": -76.22
+          }
+        },
+        "gender_type": 1,
+        "smoker_type": 2,
+        "role_type": 1,
+        "lang": "en",
+        "days": [
+          {
+            "day": "mon",
+            "time_flex": -1
+          },
+          {
+            "day": "tue",
+            "time_flex": -1
+          },
+          {
+            "day": "wed",
+            "time_flex": -1
+          },
+          {
+            "day": "thu",
+            "time_flex": -1
+          },
+          {
+            "day": "fri",
+            "time_flex": -1
+          }
+        ]
+      },
+      {
+        "carpool_route_id": "37001_95760_182917",
+        "orig": {
+          "sw": {
+            "lat": 37.08,
+            "lng": -76.42
+          },
+          "ne": {
+            "lat": 37.1,
+            "lng": -76.4
+          }
+        },
+        "dest": {
+          "sw": {
+            "lat": 36.84,
+            "lng": -76.3
+          },
+          "ne": {
+            "lat": 36.86,
+            "lng": -76.28
+          }
+        },
+        "gender_type": 1,
+        "smoker_type": 2,
+        "role_type": 1,
+        "lang": "en",
+        "days": [
+          {
+            "day": "mon",
+            "time_flex": -1
+          },
+          {
+            "day": "tue",
+            "time_flex": -1
+          },
+          {
+            "day": "wed",
+            "time_flex": -1
+          },
+          {
+            "day": "thu",
+            "time_flex": -1
+          },
+          {
+            "day": "fri",
+            "time_flex": -1
+          }
+        ]
+      },
+      {
+        "carpool_route_id": "39112_841468_1414772",
+        "orig": {
+          "sw": {
+            "lat": 36.48,
+            "lng": -76.34
+          },
+          "ne": {
+            "lat": 36.5,
+            "lng": -76.32
+          }
+        },
+        "dest": {
+          "sw": {
+            "lat": 36.8,
+            "lng": -76.32
+          },
+          "ne": {
+            "lat": 36.82,
+            "lng": -76.3
+          }
+        },
+        "gender_type": 1,
+        "smoker_type": 2,
+        "role_type": 1,
+        "lang": "en",
+        "days": [
+          {
+            "day": "mon",
+            "depart_time": "05:00:00",
+            "return_time": "15:00:00",
+            "time_flex": -1
+          },
+          {
+            "day": "tue",
+            "depart_time": "05:00:00",
+            "return_time": "15:00:00",
+            "time_flex": -1
+          },
+          {
+            "day": "wed",
+            "depart_time": "05:00:00",
+            "return_time": "15:00:00",
+            "time_flex": -1
+          },
+          {
+            "day": "thu",
+            "depart_time": "05:00:00",
+            "return_time": "15:00:00",
+            "time_flex": -1
+          },
+          {
+            "day": "fri",
+            "depart_time": "05:00:00",
+            "return_time": "15:00:00",
+            "time_flex": -1
+          }
+        ]
+      },
+      {
+        "carpool_route_id": "39940_107708_107288",
+        "orig": {
+          "sw": {
+            "lat": 36.7,
+            "lng": -76.6
+          },
+          "ne": {
+            "lat": 36.72,
+            "lng": -76.58
+          }
+        },
+        "dest": {
+          "sw": {
+            "lat": 36.94,
+            "lng": -76.34
+          },
+          "ne": {
+            "lat": 36.96,
+            "lng": -76.32
+          }
+        },
+        "gender_type": 2,
+        "smoker_type": 2,
+        "role_type": 1,
+        "lang": "en",
+        "days": [
+          {
+            "day": "mon",
+            "depart_time": "09:30:00",
+            "return_time": "15:00:00",
+            "time_flex": -1
+          },
+          {
+            "day": "tue",
+            "depart_time": "09:30:00",
+            "return_time": "15:00:00",
+            "time_flex": -1
+          },
+          {
+            "day": "wed",
+            "depart_time": "09:30:00",
+            "return_time": "15:00:00",
+            "time_flex": -1
+          },
+          {
+            "day": "thu",
+            "depart_time": "09:30:00",
+            "return_time": "15:00:00",
+            "time_flex": -1
+          },
+          {
+            "day": "fri",
+            "depart_time": "09:30:00",
+            "return_time": "15:00:00",
+            "time_flex": -1
+          }
+        ]
+      }
+     ]
+  }
+}
